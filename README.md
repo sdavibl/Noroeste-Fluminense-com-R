@@ -1,4 +1,4 @@
-# 🗺️ Geospatial Analysis of Noroeste Flumijnense with R 
+# 🗺️ Geospatial Analysis of Noroeste Fluminense with R 
 
 ![image](https://github.com/user-attachments/assets/ff250642-93e5-4f4f-8f2e-5538aea68e93)
 
